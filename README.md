@@ -1,9 +1,19 @@
 # Vaccine Alert Code
 Code will give you a pop-up when the vaccine is available in your area.<br>
 Make sure that script should run continuously in background <br>
-Guided with Windows operating system 
+Guided with Windows operating system <br>
 
+
+# Option 1: (Simplest exe file)
+In this option you don't need any installation of python.<br>
+- Step 1: Download just code.exe file from repository<br>
+- Step 2: Run code.exe file and put it in a backgroud<br>
+- Step 3: Pop-up will come with available centres <br>
+<br>
+
+# Option 2: (With Python)<br>
 ## How to run this code in your system?
+Download code folder from repository
 ### If you haven't installed python yet?
 Exe file download link: https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe <br>
 Ref: https://www.python.org/
