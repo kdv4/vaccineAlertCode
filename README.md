@@ -1,4 +1,4 @@
-# vaccineAlertCode
+# Vaccine Alert Code
 Code will give you a pop-up when the vaccine is available in your area.<br>
 Make sure that script should run continuously in background <br>
 Guided with Windows operating system 
