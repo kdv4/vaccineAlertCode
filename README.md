@@ -15,7 +15,7 @@ In this option you don't need any installation of python.<br>
 # Option 2: (With Python)
 ## How to run this code in your system?
 Download code folder from repository<br>
-In this python code, when slot available it will give you sound alert.
+In this python code, when slot available it will give you sound alert too.
 
 ### Install basic library needed to run this code
 - Step 1: Open terminal in the present working directory[where requirements.txt file present]
