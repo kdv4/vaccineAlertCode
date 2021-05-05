@@ -33,7 +33,7 @@ After downloading the Exe file, then you can run the .exe file and make python i
 - Double click on "code.py".
 - Don't close black window which was started in previous step.
 - Now do your other work, Pop-up shown below image will come to your screen when the vaccine
-<center><img src="./output/pop-up.PNG" alt="Output Image"></center>
+<center><img src="./code/output/pop-up.PNG" alt="Output Image"></center>
 
 ##### References: 
 https://apisetu.gov.in/public/marketplace/api/cowin
