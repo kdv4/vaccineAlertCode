@@ -16,7 +16,7 @@ After downloading the Exe file, then you can run the .exe file and make python i
 
 ### Finally run code
 - Open code.py using editor like Notepad and do following changes:
-    - **Pin_code = [] : Write all the pincode for which you want check with comma seperated between []. e.g Pin_code=[395009,395006]**
+    - **Pin_code = [] : Write all the pincode for which you want check with comma seperated between []. e.g Pin_code=[395009,395006] or Pin_code=[395009]**
     - Age_limit = 18 or 45; As per today's date government is providing only 2 age limits so that I provided accordingly.
     - sleep_time = 60; After every 60 sec it will check availability of vaccine
 - Double click on "code.py".
