@@ -23,7 +23,7 @@ After downloading the Exe file, then you can run the .exe file and make python i
 
 ### Install basic library needed to run this code
 - Step 1: Open terminal in the present working directory[where requirements.txt file present]
-- Step 2: Run following command:<br> '''pip install -r requirements.txt'''
+- Step 2: Run following command:<br> "pip install -r requirements.txt"
 
 ### Finally run code
 - Double click on "code.py".
