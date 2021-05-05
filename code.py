@@ -7,16 +7,13 @@ from tkinter import ttk
 import datetime
 from playsound import playsound
 
-Pin_code=[560002] #write list of pincode for which you want to check 
-Your_age=46 #Write your age in year
-sleep_time=10 #in sec, If you take too small then api will block you so take it as 60 sec
+Pin_code=[395009] #write list of pincode for which you want to check 
+Your_age=23 #Write your age in year
+sleep_time=20 #in sec, If you take too small then api will block you so take it as 60 sec
 How_many_days=3 #2 it will check for slot available Today or Tomorrow 
 
 def callback():
     webbrowser.open_new(r"https://selfregistration.cowin.gov.in/")
-
-def play():
-    playsound('./output/1.mp3')
 
 def popupmsg(msg):
     popup = tk.Tk()
