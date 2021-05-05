@@ -10,7 +10,7 @@ from datetime import date
 
 Pin_code=[395009,395006,560002] #write list of pincode for which you want to check 
 Age_limit=18 #Either 18 or 45
-sleep_time=10 #in sec, If you take too small then api will block you so take it as 60 sec
+sleep_time=60 #in sec, If you take too small then api will block you so take it as 60 sec
 
 def callback():
         webbrowser.open_new(r"https://selfregistration.cowin.gov.in/")
@@ -25,7 +25,7 @@ def popupmsg(msg):
     B1.pack()
     popup.mainloop()
 
-        
+print("[INFO] Script Started Successfully")        
 while True:
     try:
         Date=date.today().strftime("%d-%m-%Y")
@@ -45,7 +45,7 @@ while True:
         if flag:
             popupmsg(msg)
             break
-
+        print("[INFO] Checking")
         time.sleep(sleep_time)
     except Exception as e:
         print(e)
