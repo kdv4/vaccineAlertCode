@@ -50,7 +50,7 @@ def check_available():
             
             print("[INFO] Checked,Till now no center available, will check after: ",sleep_time," sec")
             if flag:
-                #playsound("./output/alert.mp3")
+                playsound("./output/alert.mp3")
                 popupmsg(msg)
                 break
             
