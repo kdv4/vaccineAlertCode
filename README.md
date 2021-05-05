@@ -14,12 +14,8 @@ In this option you don't need any installation of python.<br>
 
 # Option 2: (With Python)
 ## How to run this code in your system?
-Download code folder from repository
-### If you haven't installed python yet?
-Exe file download link: https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe <br>
-Ref: https://www.python.org/
-
-After downloading the Exe file, then you can run the .exe file and make python install on your system.
+Download code folder from repository<br>
+In this python code, when slot available it will give you sound alert.
 
 ### Install basic library needed to run this code
 - Step 1: Open terminal in the present working directory[where requirements.txt file present]
