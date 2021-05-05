@@ -6,7 +6,7 @@ Guided with Windows operating system <br>
 
 # Option 1: (Simplest exe file)
 In this option you don't need any installation of python.<br>
-- Step 1: Download just code.exe file from repository<br>
+- Step 1: Download just code.exe file from repository, if chrome give you an security error then do "allow anyway"<br>
 - Step 2: Run code.exe file 
 - Step 3: Give proper input of pincode and age. Put it in a backgroud<br>
 - Step 4: Pop-up will come with available centres <br>
