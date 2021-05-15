@@ -38,7 +38,7 @@ def check_available():
             flag=False
             for j in Pin_code:
                 for k in Date:
-                    rsp = requests.get("https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode="+str(j)+"&date="+k)
+                    rsp = requests.get("https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode="+str(j)+"&date="+k,headers={"content-type":"application/json", "User-Agent":"Annonymous"})
                     strrsp = rsp.text
                     jsonrsp = json.loads(strrsp)
                     availability=jsonrsp['sessions']
